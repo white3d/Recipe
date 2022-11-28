@@ -88,6 +88,3 @@ test:
 production:
   <<: *default
   url: <%= ENV['DATABASE_URL'] %>
-  database: recipe_fhi1
-  username: recipe
-  password: k7lXHQz8601YwEK0XL35ukZcEtWMwNfY
