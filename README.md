@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-![](https://media.giphy.com/media/a8kZzhfLvxlrZlOtx8/giphy.mp4)
+![](https://media.giphy.com/media/a8kZzhfLvxlrZlOtx8/giphy.gif)
 
 # Recipe
 
