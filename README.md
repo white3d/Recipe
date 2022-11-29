@@ -4,6 +4,9 @@
 
 > This App keeps track of all your recipes, ingredients, and inventory. It allows you to save ingredients, keep track of what you have in store, create recipes, and generate a shopping list based on what you have and what you are missing from a recipe.
 
+![Screenshot 1](https://github.com/white3d/Recipe/blob/main/Recipe1.png)
+![Screenshot 2](https://github.com/white3d/Recipe/blob/main/Recipe2.png)
+
 ## Demo Video
 
 [Video Link](https://www.loom.com/share/d0326b3dae4245d19d1ab0e8fc1ad4fc)
