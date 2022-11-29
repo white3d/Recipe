@@ -4,11 +4,19 @@
 
 > This App keeps track of all your recipes, ingredients, and inventory. It allows you to save ingredients, keep track of what you have in store, create recipes, and generate a shopping list based on what you have and what you are missing from a recipe.
 
+## Demo Video
+
+[Video Link](https://www.loom.com/share/d0326b3dae4245d19d1ab0e8fc1ad4fc)
+
+## Live Demo Link
+
+[Live Link](https://recipe-production.up.railway.app)
 
 ## Built With
 
-- Install Ruby on Rails [click here >>](https://guides.rubyonrails.org/)
-- Linter: [Rubocop](https://rubocop.org/)
+![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor)
+![Ruby on Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=50&color=currentColor)
+![Ruby](https://icongr.am/devicon/postgresql-original.svg?size=50&color=currentColor)
 
 ## Getting Started
 
