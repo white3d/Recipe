@@ -13,7 +13,7 @@
 
 ## Demo Video
 
-[Video Link](https://www.loom.com/share/d0326b3dae4245d19d1ab0e8fc1ad4fc)
+[Video Link](https://www.loom.com/share/00a15d5822204c2faf18d6aa0b3fbf39)
 
 ## Live Demo Link
 
