@@ -1,10 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
+![](https://im3.ezgif.com/tmp/ezgif-3-3017b83143.gif)
+
 # Recipe
 
 > This App keeps track of all your recipes, ingredients, and inventory. It allows you to save ingredients, keep track of what you have in store, create recipes, and generate a shopping list based on what you have and what you are missing from a recipe.
 
-![](https://media.giphy.com/media/T7jzt0ZsQ5hsAFDC0F/giphy.gif)
+
+## Screenshots
 ![Screenshot 1](https://github.com/white3d/Recipe/blob/main/Recipe1.png)
 ![Screenshot 2](https://github.com/white3d/Recipe/blob/main/Recipe2.png)
 
